@@ -6,7 +6,7 @@ Python WiFi DoS (Denial of Service) attack
 # How to use
 
 1. Install `python3` in your system.
-2. Clone the project `https://github.com/Mr-Hax0r/wifi-jammer-python.git`.
+2. Clone the project `https://github.com/Mr-Hax0r/wifi-jammer-python`
 
   ```bash
   cd wifi-jammer-python
